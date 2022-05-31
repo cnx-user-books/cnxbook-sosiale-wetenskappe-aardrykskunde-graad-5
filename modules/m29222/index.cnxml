@@ -1,0 +1,215 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Skaal en afstand</title>
+  <metadata>
+  <md:content-id>m29222</md:content-id><md:title>Skaal en afstand</md:title>
+  <md:abstract/>
+  <md:uuid>d3d10f34-f9f0-4f34-b27f-bdfcf9768ead</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1169634628128">AARDRYKSKUNDE</para>
+    <para id="id1169628872648">Graad 5</para>
+    <para id="id6213328">KAARTWERK </para>
+    <para id="id1169635455383">Module 6</para>
+    <para id="id1169632539905">SKAAL EN AFSTAND</para>
+    <para id="id1169629866432">1. Kaartskale en afstandsberekening</para>
+    <para id="id1169629164118">As jy ‘n plan of kaart van ‘n vertrek wil teken, kan jy mos nie die vel papier net so groot soos die vertrek maak nie. Jy moet die vertrek op papier VERKLEIN. Om dit te kan doen, moet jy van ‘n SKAAL gebruik maak. Kom ons vat Tom se leefvertrek en vergelyk dit met ‘n plan of kaart van dieselfde leefvertrek.</para>
+    <figure id="id8725456">
+      <media id="id8725456_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics1-89e2.png" id="id8725456__onlineimage" height="202" width="295"/>
+      </media>
+    </figure>
+    <para id="id1169628684642">Tom se leefvertrek</para>
+    <figure id="id1169626697238">
+      <media id="id1169626697238_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics2-8f17.png" id="id1169626697238__onlineimage" height="218" width="311"/>
+      </media>
+    </figure>
+    <para id="id7677130">Kaart van Tom se leefvertrek</para>
+    <para id="id1169630323449">Op hierdie kaart van TOM se leefvertrek is daar van ‘n lynskaal gebruik gemaak.</para>
+    <para id="id1169628258870">Dit beteken dat in hierdie kaart van Tom se leefvertrek een sentimeter op die kaart gelyk is aan een meter in die regte lewe.</para>
+    <para id="id1169633587049">Verskillende kaarte se skale wissel natuurlik ook.</para>
+    <para id="id1169634634224">2. Hoe om afstand te bepaal met ’n lynskaal</para>
+    <para id="id1169630380456">Die afstand tussen twee plekke word met ‘n liniaal of meetpasser op die kaart akkuraat afgemeet.</para>
+    <figure id="id4999218">
+      <media id="id4999218_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics3-0e56.png" id="id4999218__onlineimage" height="175" width="353"/>
+      </media>
+    </figure>
+    <para id="id1169628231425">Meet dit dan direk op die lynskaal af.</para>
+    <table id="id1169627355326" summary="">
+      <tgroup cols="17">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <colspec colnum="7" colname="c7"/>
+        <colspec colnum="8" colname="c8"/>
+        <colspec colnum="9" colname="c9"/>
+        <colspec colnum="10" colname="c10"/>
+        <colspec colnum="11" colname="c11"/>
+        <colspec colnum="12" colname="c12"/>
+        <colspec colnum="13" colname="c13"/>
+        <colspec colnum="14" colname="c14"/>
+        <colspec colnum="15" colname="c15"/>
+        <colspec colnum="16" colname="c16"/>
+        <colspec colnum="17" colname="c17"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2"/>
+            <entry namest="c3" nameend="c4"/>
+            <entry namest="c5" nameend="c6"/>
+            <entry namest="c7" nameend="c8"/>
+            <entry namest="c9" nameend="c10"/>
+            <entry namest="c11" nameend="c12"/>
+            <entry namest="c13" nameend="c14"/>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>Skaal:</entry>
+            <entry namest="c2" nameend="c3">0</entry>
+            <entry namest="c4" nameend="c5">50</entry>
+            <entry namest="c6" nameend="c7">100</entry>
+            <entry namest="c8" nameend="c9">150</entry>
+            <entry namest="c10" nameend="c11">200</entry>
+            <entry namest="c12" nameend="c13">250</entry>
+            <entry namest="c14" nameend="c15">300</entry>
+            <entry namest="c16" nameend="c17">cm</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id1169629218388">AKTIWITEIT 1</para>
+    <para id="id7270472">OM VAN 'N LYNSKAAL GEBRUIK TE MAAK</para>
+    <para id="id1169636984336">[LU 1.1]</para>
+    <para id="id8520183">1. Wat is die werklike lengte van Tom se rusbank?________ m.</para>
+    <para id="id1169639035010"/>
+    <para id="id8667289">2. Bestudeer jou atlas en doen dan die volgende afstandsberekeninge volgens die lynskaal. (Meet soos die kraai vlieg, dus reguit.)</para>
+    <para id="id1169636666410"/>
+    <para id="id6339383">Hoe ver is dit vanaf jou tuisdorp na die monding van die Garieprivier?</para>
+    <para id="id8337620"/>
+    <para id="id7858048">Wat is die afstand vanaf jou tuisdorp na Johannesburg?</para>
+    <para id="id8903015"/>
+    <para id="id1169629173502">Vind Durban op die kaart. Verbeel jou jy woon daar en wil na die volgende plekke gaan: Pretoria, Kaapstad, Bloemfontein</para>
+    <para id="id1169627034156"> Hoeveel km gaan jy na elke bestemming reis?</para>
+    <para id="id1169628928614">  In watter rigting gaan jy na elkeen reis?</para>
+    <para id="id1169634175824"/>
+    <para id="id1169638918786">Vul jou antwoorde in die oop spasies in.</para>
+    <table id="id1169628387131" summary="">
+      <tgroup cols="5">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <tbody>
+          <row>
+            <entry/>
+            <entry>Afstand in km</entry>
+            <entry/>
+            <entry/>
+            <entry>Rigting waarin jy beweeg</entry>
+          </row>
+          <row>
+            <entry>Pretoria</entry>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>Kaapstad</entry>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>Bloemfontein</entry>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id1169636544389">3. Verhoudingskale</para>
+    <para id="id1169635393192">Daar kom ook VERHOUDINGSKALE op kaarte voor, byvoorbeeld 1 : 100 000. Dit beteken dat die werklikheid 100 000 keer groter is as die kaart. As jy nou wil meet hoe ver twee plekke van mekaar geleë is, moet jy ‘n berekening doen.</para>
+    <para id="id1169628343940"> Byvoorbeeld: Twee plekke is 2 cm van mekaar geleë op ‘n 1 : 50 000 kaart.</para>
+    <para id="id6826938"> Dus 2 cm x 50 000  =  100 000 cm = 100 m</para>
+    <para id="id1169636698340">   =  1 km</para>
+    <para id="id1169631792478">So ‘n berekening kan nogal moeilik wees. Vir ons doeleindes sal jy dus nou eerder van die lynskaal gebruik maak.</para>
+    <para id="id4608531">BELANGRIKE FEIT!</para>
+    <para id="id1169627519550">Kaartskale help jou om te bepaal hoe ver een plek van ‘n ander geleë is.</para>
+    <para id="id1169631680910">Assessering</para>
+    <para id="id1955658">LU 1 </para>
+    <para id="id1169637707106">AARDRYKSKUNDIGE ONDERSOEK</para>
+    <para id="id1169628744973">Die leerder is in staat om ondersoekvaardighede te gebruik om aardrykskundige en omgewingsbegrippe en -prosesse te ondersoek.</para>
+    <para id="id1169627396669">Dit is duidelik wanneer die leerder:</para>
+    <para id="id1169628190060">bronne met nuttige aardrykskundige inligting kan kies en gebruik;</para>
+    <para id="id1169634048208">inligting kategoriseer;</para>
+    <para id="id1169628687383">sketskaarte en/of planne na aanleiding van veldwaarnemings en afmetings teken;</para>
+    <para id="id1169626702417">‘n indeks gebruik om plekke op wêreldatlaskaarte te vind;</para>
+    <para id="id1169635805825">deur projekte, bespreking, debat en diagramme, kennis en begrip van die vraagstuk toon [dra die antwoord oor].</para>
+    <para id="id1169635764204">Memorandum</para>
+    <para id="id7159256">3m</para>
+    <table id="id5629072" summary="">
+      <tgroup cols="5">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <tbody>
+          <row>
+            <entry/>
+            <entry>Afstand in km</entry>
+            <entry/>
+            <entry/>
+            <entry>Rigting waarin jy beweeg</entry>
+          </row>
+          <row>
+            <entry>Pretoria</entry>
+            <entry>±500 km</entry>
+            <entry/>
+            <entry/>
+            <entry>NW</entry>
+          </row>
+          <row>
+            <entry>Kaapstad</entry>
+            <entry>1 300 km</entry>
+            <entry/>
+            <entry/>
+            <entry>SW</entry>
+          </row>
+          <row>
+            <entry>Bloemfontein</entry>
+            <entry>±460 km</entry>
+            <entry/>
+            <entry/>
+            <entry>W</entry>
+          </row>
+          <row>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </content>
+</document>
