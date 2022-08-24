@@ -1,3 +1,68 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10985</md:content-id>  <md:title>Sosiale Wetenskappe: Aardrykskunde Graad 5</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>9cb0a52e-ecf4-4db4-be2e-2bf3f0bebdd2</md:uuid>
-<md:slug>sosiale-wetenskappe-aardrykskunde-graad-5</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Kwartaal 1</md:title>                                <col:content>                    <col:module document="m25628"/>                            <col:module document="m25570"/>                            <col:module document="m25574"/>                            <col:module document="m25578"/>                            <col:module document="m25580"/>                            <col:module document="m29222"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Kwartaal 2</md:title>                                <col:content>                    <col:module document="m29328"/>                            <col:module document="m29654"/>                            <col:module document="m29348"/>                            <col:module document="m25581"/>                            <col:module document="m25582"/>                            <col:module document="m25584"/>                            <col:module document="m29663"/>                            <col:module document="m25585"/>                            <col:module document="m25589"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Kwartaal 3</md:title>                                <col:content>                    <col:module document="m25590"/>                            <col:module document="m25625"/>                            <col:module document="m25630"/>                            <col:module document="m25617"/>                            <col:module document="m25624"/>                            <col:module document="m25620"/>                            <col:module document="m25623"/>                            <col:module document="m25622"/>                            <col:module document="m29649"/>                            <col:module document="m25633"/>                            <col:module document="m25634"/>                            <col:module document="m29647"/>                            <col:module document="m29658"/>                            <col:module document="m29660"/>                            <col:module document="m29661"/>                            <col:module document="m29662"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Kwartaal 4</md:title>                                <col:content>                    <col:module document="m29655"/>                            <col:module document="m25652"/>                            <col:module document="m25653"/>                            <col:module document="m25842"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Siyavula Uploaders">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10985</md:content-id>
+    <md:title>Sosiale Wetenskappe: Aardrykskunde Graad 5</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>9cb0a52e-ecf4-4db4-be2e-2bf3f0bebdd2</md:uuid>
+    <md:slug>sosiale-wetenskappe-aardrykskunde-graad-5</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Kwartaal 1</md:title>
+      <col:content>
+        <col:module document="m25628"/>
+        <col:module document="m25570"/>
+        <col:module document="m25574"/>
+        <col:module document="m25578"/>
+        <col:module document="m25580"/>
+        <col:module document="m29222"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kwartaal 2</md:title>
+      <col:content>
+        <col:module document="m29328"/>
+        <col:module document="m29654"/>
+        <col:module document="m29348"/>
+        <col:module document="m25581"/>
+        <col:module document="m25582"/>
+        <col:module document="m25584"/>
+        <col:module document="m29663"/>
+        <col:module document="m25585"/>
+        <col:module document="m25589"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kwartaal 3</md:title>
+      <col:content>
+        <col:module document="m25590"/>
+        <col:module document="m25625"/>
+        <col:module document="m25630"/>
+        <col:module document="m25617"/>
+        <col:module document="m25624"/>
+        <col:module document="m25620"/>
+        <col:module document="m25623"/>
+        <col:module document="m25622"/>
+        <col:module document="m29649"/>
+        <col:module document="m25633"/>
+        <col:module document="m25634"/>
+        <col:module document="m29647"/>
+        <col:module document="m29658"/>
+        <col:module document="m29660"/>
+        <col:module document="m29661"/>
+        <col:module document="m29662"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kwartaal 4</md:title>
+      <col:content>
+        <col:module document="m29655"/>
+        <col:module document="m25652"/>
+        <col:module document="m25653"/>
+        <col:module document="m25842"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
